@@ -9,7 +9,7 @@ SECRET_KEY = ('django-insecure-j_89af+'
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['89.169.161.91', 'taskiing.servebeer.com', 'localhost']
+ALLOWED_HOSTS = ['89.169.161.91', 'taskiing.zapto.org', 'localhost']
 
 
 # Application definition
